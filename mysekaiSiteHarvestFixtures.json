@@ -1,0 +1,602 @@
+[
+  {
+    "id": 111,
+    "mysekaiSiteHarvestFixtureType": "treasure_box_transport",
+    "mysekaiSiteBulkHarvestTargetId": 18,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "treasure_box"
+  },
+  {
+    "id": 112,
+    "mysekaiSiteHarvestFixtureType": "treasure_box_fixed",
+    "mysekaiSiteBulkHarvestTargetId": 18,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "treasure_box1"
+  },
+  {
+    "id": 1001,
+    "mysekaiSiteHarvestFixtureType": "wood",
+    "mysekaiSiteBulkHarvestTargetId": 1,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_wood_common_fieldtree01"
+  },
+  {
+    "id": 1002,
+    "mysekaiSiteHarvestFixtureType": "wood",
+    "mysekaiSiteBulkHarvestTargetId": 2,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_wood_common_conifer01"
+  },
+  {
+    "id": 1003,
+    "mysekaiSiteHarvestFixtureType": "wood",
+    "mysekaiSiteBulkHarvestTargetId": 3,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_wood_common_palmtree01"
+  },
+  {
+    "id": 1004,
+    "mysekaiSiteHarvestFixtureType": "wood",
+    "mysekaiSiteBulkHarvestTargetId": 4,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_wood_common_luxurytree01"
+  },
+  {
+    "id": 2001,
+    "mysekaiSiteHarvestFixtureType": "mineral",
+    "mysekaiSiteBulkHarvestTargetId": 5,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_rock_common_stone01"
+  },
+  {
+    "id": 2002,
+    "mysekaiSiteHarvestFixtureType": "mineral",
+    "mysekaiSiteBulkHarvestTargetId": 6,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_rock_common_stone02"
+  },
+  {
+    "id": 2003,
+    "mysekaiSiteHarvestFixtureType": "mineral",
+    "mysekaiSiteBulkHarvestTargetId": 7,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_rock_common_stone03"
+  },
+  {
+    "id": 2004,
+    "mysekaiSiteHarvestFixtureType": "mineral",
+    "mysekaiSiteBulkHarvestTargetId": 8,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_rock_common_stone04"
+  },
+  {
+    "id": 2005,
+    "mysekaiSiteHarvestFixtureType": "mineral",
+    "mysekaiSiteBulkHarvestTargetId": 9,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_rock_common_stone05"
+  },
+  {
+    "id": 2006,
+    "mysekaiSiteHarvestFixtureType": "mineral",
+    "mysekaiSiteBulkHarvestTargetId": 10,
+    "hp": 90,
+    "lastAttackStamina": 10,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_rock_common_stone01"
+  },
+  {
+    "id": 3001,
+    "mysekaiSiteHarvestFixtureType": "toolbox",
+    "mysekaiSiteBulkHarvestTargetId": 11,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_tool_toolbox01"
+  },
+  {
+    "id": 4001,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 12,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_whiteflower01"
+  },
+  {
+    "id": 4002,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 13,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_flower_common_whiteflower01"
+  },
+  {
+    "id": 4003,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_tulip01"
+  },
+  {
+    "id": 4004,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_tulip02"
+  },
+  {
+    "id": 4005,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_tulip03"
+  },
+  {
+    "id": 4006,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_pansy01"
+  },
+  {
+    "id": 4007,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_pansy02"
+  },
+  {
+    "id": 4008,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_pansy03"
+  },
+  {
+    "id": 4009,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_hydrangea01"
+  },
+  {
+    "id": 4010,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_hydrangea02"
+  },
+  {
+    "id": 4011,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_hydrangea03"
+  },
+  {
+    "id": 4012,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_lilyofthevalley01"
+  },
+  {
+    "id": 4013,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_lilyofthevalley02"
+  },
+  {
+    "id": 4014,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_lilyofthevalley03"
+  },
+  {
+    "id": 4015,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_rose01"
+  },
+  {
+    "id": 4016,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_rose02"
+  },
+  {
+    "id": 4017,
+    "mysekaiSiteHarvestFixtureType": "plant",
+    "mysekaiSiteBulkHarvestTargetId": 14,
+    "hp": 0,
+    "lastAttackStamina": 20,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_flower_common_rose03"
+  },
+  {
+    "id": 5001,
+    "mysekaiSiteHarvestFixtureType": "other",
+    "mysekaiSiteBulkHarvestTargetId": 15,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_lostitem_common_leafmountain01"
+  },
+  {
+    "id": 5002,
+    "mysekaiSiteHarvestFixtureType": "other",
+    "mysekaiSiteBulkHarvestTargetId": 15,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_lostitem_common_flowermountain01"
+  },
+  {
+    "id": 5003,
+    "mysekaiSiteHarvestFixtureType": "other",
+    "mysekaiSiteBulkHarvestTargetId": 15,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_lostitem_common_sandmountain01"
+  },
+  {
+    "id": 5004,
+    "mysekaiSiteHarvestFixtureType": "other",
+    "mysekaiSiteBulkHarvestTargetId": 15,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_1",
+    "assetbundleName": "mdl_site_lostitem_common_junkmountain01"
+  },
+  {
+    "id": 5101,
+    "mysekaiSiteHarvestFixtureType": "other",
+    "mysekaiSiteBulkHarvestTargetId": 15,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_lostitem_common_leafmountain01"
+  },
+  {
+    "id": 5102,
+    "mysekaiSiteHarvestFixtureType": "other",
+    "mysekaiSiteBulkHarvestTargetId": 15,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_lostitem_common_flowermountain01"
+  },
+  {
+    "id": 5103,
+    "mysekaiSiteHarvestFixtureType": "other",
+    "mysekaiSiteBulkHarvestTargetId": 15,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_lostitem_common_sandmountain01"
+  },
+  {
+    "id": 5104,
+    "mysekaiSiteHarvestFixtureType": "other",
+    "mysekaiSiteBulkHarvestTargetId": 15,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_lostitem_common_junkmountain01"
+  },
+  {
+    "id": 6001,
+    "mysekaiSiteHarvestFixtureType": "driftage",
+    "mysekaiSiteBulkHarvestTargetId": 16,
+    "hp": 0,
+    "lastAttackStamina": 50,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_tool_barrel01"
+  },
+  {
+    "id": 7001,
+    "mysekaiSiteHarvestFixtureType": "tone",
+    "mysekaiSiteBulkHarvestTargetId": 17,
+    "hp": 0,
+    "lastAttackStamina": 100,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "tone_gust"
+  },
+  {
+    "id": 8001,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant106"
+  },
+  {
+    "id": 8002,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant103"
+  },
+  {
+    "id": 8003,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant149"
+  },
+  {
+    "id": 8004,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant111"
+  },
+  {
+    "id": 8005,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant108"
+  },
+  {
+    "id": 8006,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant133"
+  },
+  {
+    "id": 8007,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant139"
+  },
+  {
+    "id": 8008,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant104"
+  },
+  {
+    "id": 8009,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant118"
+  },
+  {
+    "id": 8010,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant142"
+  },
+  {
+    "id": 8011,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant117"
+  },
+  {
+    "id": 8012,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant155"
+  },
+  {
+    "id": 8013,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant109"
+  },
+  {
+    "id": 8014,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant107"
+  },
+  {
+    "id": 8015,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant105"
+  },
+  {
+    "id": 8016,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant119"
+  },
+  {
+    "id": 8017,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant102"
+  },
+  {
+    "id": 8018,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant113"
+  },
+  {
+    "id": 8019,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant112"
+  },
+  {
+    "id": 8020,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant116"
+  },
+  {
+    "id": 8021,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant115"
+  },
+  {
+    "id": 8022,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant110"
+  },
+  {
+    "id": 8023,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant101"
+  },
+  {
+    "id": 8024,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant120"
+  },
+  {
+    "id": 8025,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant131"
+  },
+  {
+    "id": 8026,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant114"
+  },
+  {
+    "id": 8027,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant106"
+  },
+  {
+    "id": 8028,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant103"
+  },
+  {
+    "id": 8029,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant149"
+  },
+  {
+    "id": 8030,
+    "mysekaiSiteHarvestFixtureType": "birthday_plant",
+    "hp": 0,
+    "lastAttackStamina": 250,
+    "mysekaiSiteHarvestFixtureRarityType": "rarity_2",
+    "assetbundleName": "mdl_site_dewdrop_birthday_plant111"
+  }
+]

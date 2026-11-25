@@ -1,0 +1,2048 @@
+[
+  {
+    "id": 1,
+    "groupId": 1,
+    "title": "[2.5周年記念]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation",
+    "startAt": 1680145200000,
+    "progressEndAt": 1682002799000,
+    "receiveRewardEndAt": 1682866799000,
+    "closedAt": 1683125999000,
+    "missions": [
+      {
+        "id": 1,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 1,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 2,
+            "countGroupId": 2,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 3,
+            "countGroupId": 3,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 4,
+            "countGroupId": 4,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 5,
+            "countGroupId": 5,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 6,
+            "countGroupId": 6,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 7,
+            "countGroupId": 7,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 8,
+            "countGroupId": 8,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 9,
+            "countGroupId": 9,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 10,
+            "countGroupId": 10,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "missionType": "guest",
+        "missionCategoryId": 1,
+        "name": "メインストーリーをスキップせずに読もう",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_chapter",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 11,
+            "countGroupId": 11,
+            "count": 1,
+            "resourceBoxId": 3
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "missionType": "guest",
+        "missionCategoryId": 1,
+        "name": "メインストーリーをスキップせずに読もう",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_chapter",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 12,
+            "countGroupId": 12,
+            "count": 1,
+            "resourceBoxId": 4
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "missionType": "guest",
+        "missionCategoryId": 1,
+        "name": "メインストーリーをスキップせずに読もう",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_chapter",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 1,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "groupId": 1,
+    "title": "[3周年記念]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation_3rd_anniv",
+    "startAt": 1695826800000,
+    "progressEndAt": 1697986799000,
+    "receiveRewardEndAt": 1698764399000,
+    "closedAt": 1699023599000,
+    "missions": [
+      {
+        "id": 14,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 13,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 5
+          },
+          {
+            "id": 14,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 6
+          },
+          {
+            "id": 15,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 7
+          },
+          {
+            "id": 16,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 8
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 2,
+            "countGroupId": 2,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 3,
+            "countGroupId": 3,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 4,
+            "countGroupId": 4,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 5,
+            "countGroupId": 5,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 6,
+            "countGroupId": 6,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 7,
+            "countGroupId": 7,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 8,
+            "countGroupId": 8,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 9,
+            "countGroupId": 9,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 10,
+            "countGroupId": 10,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "missionType": "guest",
+        "missionCategoryId": 1,
+        "name": "メインストーリーをスキップせずに読もう",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_chapter",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 11,
+            "countGroupId": 11,
+            "count": 1,
+            "resourceBoxId": 3
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "missionType": "guest",
+        "missionCategoryId": 1,
+        "name": "メインストーリーをスキップせずに読もう",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_chapter",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 12,
+            "countGroupId": 12,
+            "count": 1,
+            "resourceBoxId": 4
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "missionType": "guest",
+        "missionCategoryId": 1,
+        "name": "メインストーリーをスキップせずに読もう",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_chapter",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 13,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 5
+          },
+          {
+            "id": 14,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 6
+          },
+          {
+            "id": 15,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 7
+          },
+          {
+            "id": 16,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "groupId": 1,
+    "title": "[4周年記念]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation_4th_anniv",
+    "startAt": 1727492400000,
+    "progressEndAt": 1729522799000,
+    "receiveRewardEndAt": 1730386799000,
+    "closedAt": 1730645999000,
+    "missions": [
+      {
+        "id": 27,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 13,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 5
+          },
+          {
+            "id": 14,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 6
+          },
+          {
+            "id": 15,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 7
+          },
+          {
+            "id": 16,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 8
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 2,
+            "countGroupId": 2,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 3,
+            "countGroupId": 3,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 4,
+            "countGroupId": 4,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 5,
+            "countGroupId": 5,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 6,
+            "countGroupId": 6,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 7,
+            "countGroupId": 7,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 8,
+            "countGroupId": 8,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 9,
+            "countGroupId": 9,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 10,
+            "countGroupId": 10,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 11,
+            "countGroupId": 11,
+            "count": 1,
+            "resourceBoxId": 3
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 12,
+            "countGroupId": 12,
+            "count": 1,
+            "resourceBoxId": 4
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 20,
+        "reward": [
+          {
+            "id": 13,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 5
+          },
+          {
+            "id": 14,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 6
+          },
+          {
+            "id": 15,
+            "countGroupId": 1,
+            "count": 1,
+            "resourceBoxId": 7
+          },
+          {
+            "id": 16,
+            "countGroupId": 1,
+            "count": 2,
+            "resourceBoxId": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "groupId": 2,
+    "title": "[5周年記念]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation_5th_anniv",
+    "startAt": 1759114800000,
+    "progressEndAt": 1761058799000,
+    "receiveRewardEndAt": 1761922799000,
+    "closedAt": 1762181999000,
+    "missions": [
+      {
+        "id": 40,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 17,
+            "countGroupId": 101,
+            "count": 1,
+            "resourceBoxId": 9
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 18,
+            "countGroupId": 102,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 19,
+            "countGroupId": 103,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 20,
+            "countGroupId": 104,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 44,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 21,
+            "countGroupId": 105,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 22,
+            "countGroupId": 106,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 23,
+            "countGroupId": 107,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 24,
+            "countGroupId": 108,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 48,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 25,
+            "countGroupId": 109,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 49,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 26,
+            "countGroupId": 110,
+            "count": 1,
+            "resourceBoxId": 2
+          }
+        ]
+      },
+      {
+        "id": 50,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 27,
+            "countGroupId": 201,
+            "count": 1,
+            "resourceBoxId": 3
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 28,
+            "countGroupId": 202,
+            "count": 1,
+            "resourceBoxId": 4
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 20,
+        "reward": [
+          {
+            "id": 29,
+            "countGroupId": 203,
+            "count": 1,
+            "resourceBoxId": 9
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "groupId": 3,
+    "title": "[6周年記念]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation_6th_anniv",
+    "startAt": 1790305200000,
+    "progressEndAt": 1792076399000,
+    "receiveRewardEndAt": 1792508399000,
+    "closedAt": 1792508399000,
+    "missions": [
+      {
+        "id": 53,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 30,
+            "countGroupId": 301,
+            "count": 1,
+            "resourceBoxId": 10
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 31,
+            "countGroupId": 302,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 55,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 32,
+            "countGroupId": 303,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 56,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 33,
+            "countGroupId": 304,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 34,
+            "countGroupId": 305,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 35,
+            "countGroupId": 306,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 36,
+            "countGroupId": 307,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 37,
+            "countGroupId": 308,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 38,
+            "countGroupId": 309,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 39,
+            "countGroupId": 310,
+            "count": 1,
+            "resourceBoxId": 11
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 40,
+            "countGroupId": 401,
+            "count": 1,
+            "resourceBoxId": 4
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 41,
+            "countGroupId": 402,
+            "count": 1,
+            "resourceBoxId": 12
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "missionType": "guest",
+        "missionCategoryId": 2,
+        "name": "好きなユニットのメインストーリーをスキップ・早送りせずに読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_unit_story_episode",
+        "requirement": 20,
+        "reward": [
+          {
+            "id": 42,
+            "countGroupId": 403,
+            "count": 1,
+            "resourceBoxId": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "groupId": 4,
+    "title": "[Vivid BAD SQUAD Memories]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation_memories_vbs",
+    "startAt": 1792562400000,
+    "progressEndAt": 1792994399000,
+    "receiveRewardEndAt": 1794203999000,
+    "closedAt": 1794322799000,
+    "informationId": 6645,
+    "missions": [
+      {
+        "id": 66,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 43,
+            "countGroupId": 501,
+            "count": 1,
+            "resourceBoxId": 13
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 44,
+            "countGroupId": 502,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 45,
+            "countGroupId": 503,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 46,
+            "countGroupId": 504,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 47,
+            "countGroupId": 505,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 48,
+            "countGroupId": 506,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 49,
+            "countGroupId": 507,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 50,
+            "countGroupId": 508,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 51,
+            "countGroupId": 509,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 52,
+            "countGroupId": 510,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "missionType": "guest",
+        "missionCategoryId": 3,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 221,
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 53,
+            "countGroupId": 601,
+            "count": 1,
+            "resourceBoxId": 12
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "missionType": "guest",
+        "missionCategoryId": 3,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 221,
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 54,
+            "countGroupId": 602,
+            "count": 1,
+            "resourceBoxId": 15
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "missionType": "guest",
+        "missionCategoryId": 3,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 221,
+        "requirement": 15,
+        "reward": [
+          {
+            "id": 55,
+            "countGroupId": 603,
+            "count": 1,
+            "resourceBoxId": 16
+          }
+        ]
+      },
+      {
+        "id": 79,
+        "missionType": "guest",
+        "missionCategoryId": 3,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 221,
+        "requirement": 20,
+        "reward": [
+          {
+            "id": 56,
+            "countGroupId": 604,
+            "count": 1,
+            "resourceBoxId": 17
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "groupId": 5,
+    "title": "[MORE MORE JUMP！ Memories]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation_memories_mmj",
+    "startAt": 1792994400000,
+    "progressEndAt": 1793426399000,
+    "receiveRewardEndAt": 1794635999000,
+    "closedAt": 1794754799000,
+    "informationId": 6687,
+    "missions": [
+      {
+        "id": 80,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 57,
+            "countGroupId": 701,
+            "count": 1,
+            "resourceBoxId": 18
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 58,
+            "countGroupId": 702,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 59,
+            "countGroupId": 703,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 60,
+            "countGroupId": 704,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 61,
+            "countGroupId": 705,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 85,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 62,
+            "countGroupId": 706,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 86,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 63,
+            "countGroupId": 707,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 87,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 64,
+            "countGroupId": 708,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 65,
+            "countGroupId": 709,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 89,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 66,
+            "countGroupId": 710,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "missionType": "guest",
+        "missionCategoryId": 4,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 222,
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 67,
+            "countGroupId": 801,
+            "count": 1,
+            "resourceBoxId": 12
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "missionType": "guest",
+        "missionCategoryId": 4,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 222,
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 68,
+            "countGroupId": 802,
+            "count": 1,
+            "resourceBoxId": 19
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "missionType": "guest",
+        "missionCategoryId": 4,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 222,
+        "requirement": 15,
+        "reward": [
+          {
+            "id": 69,
+            "countGroupId": 803,
+            "count": 1,
+            "resourceBoxId": 16
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "missionType": "guest",
+        "missionCategoryId": 4,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 222,
+        "requirement": 20,
+        "reward": [
+          {
+            "id": 70,
+            "countGroupId": 804,
+            "count": 1,
+            "resourceBoxId": 20
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "groupId": 6,
+    "title": "[ワンダーランズ×ショウタイム Memories]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation_memories_wds",
+    "startAt": 1795154400000,
+    "progressEndAt": 1795586399000,
+    "receiveRewardEndAt": 1796795999000,
+    "closedAt": 1796914799000,
+    "informationId": 6778,
+    "missions": [
+      {
+        "id": 94,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 71,
+            "countGroupId": 901,
+            "count": 1,
+            "resourceBoxId": 21
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 72,
+            "countGroupId": 902,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 73,
+            "countGroupId": 903,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 74,
+            "countGroupId": 904,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 98,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 75,
+            "countGroupId": 905,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 99,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 76,
+            "countGroupId": 906,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 77,
+            "countGroupId": 907,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 78,
+            "countGroupId": 908,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 79,
+            "countGroupId": 909,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 80,
+            "countGroupId": 910,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "missionType": "guest",
+        "missionCategoryId": 5,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 226,
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 81,
+            "countGroupId": 1001,
+            "count": 1,
+            "resourceBoxId": 12
+          }
+        ]
+      },
+      {
+        "id": 105,
+        "missionType": "guest",
+        "missionCategoryId": 5,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 226,
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 82,
+            "countGroupId": 1002,
+            "count": 1,
+            "resourceBoxId": 22
+          }
+        ]
+      },
+      {
+        "id": 106,
+        "missionType": "guest",
+        "missionCategoryId": 5,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 226,
+        "requirement": 15,
+        "reward": [
+          {
+            "id": 83,
+            "countGroupId": 1003,
+            "count": 1,
+            "resourceBoxId": 16
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "missionType": "guest",
+        "missionCategoryId": 5,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 226,
+        "requirement": 20,
+        "reward": [
+          {
+            "id": 84,
+            "countGroupId": 1004,
+            "count": 1,
+            "resourceBoxId": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "groupId": 7,
+    "title": "[Leo/need Memories]セカイへようこそ大作戦！！",
+    "assetbundleName": "friend_invitation_memories_lon",
+    "startAt": 1795586400000,
+    "progressEndAt": 1796018399000,
+    "receiveRewardEndAt": 1797227999000,
+    "closedAt": 1797346799000,
+    "informationId": 6801,
+    "missions": [
+      {
+        "id": 108,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 1,
+        "reward": [
+          {
+            "id": 85,
+            "countGroupId": 1101,
+            "count": 1,
+            "resourceBoxId": 24
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 2,
+        "reward": [
+          {
+            "id": 86,
+            "countGroupId": 1102,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 3,
+        "reward": [
+          {
+            "id": 87,
+            "countGroupId": 1103,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 111,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 4,
+        "reward": [
+          {
+            "id": 88,
+            "countGroupId": 1104,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 89,
+            "countGroupId": 1105,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 113,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 6,
+        "reward": [
+          {
+            "id": 90,
+            "countGroupId": 1106,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 114,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 7,
+        "reward": [
+          {
+            "id": 91,
+            "countGroupId": 1107,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 115,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 8,
+        "reward": [
+          {
+            "id": 92,
+            "countGroupId": 1108,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 9,
+        "reward": [
+          {
+            "id": 93,
+            "countGroupId": 1109,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 117,
+        "missionType": "host",
+        "missionCategoryId": 1,
+        "name": "招待者ミッション",
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 94,
+            "countGroupId": 1110,
+            "count": 1,
+            "resourceBoxId": 14
+          }
+        ]
+      },
+      {
+        "id": 118,
+        "missionType": "guest",
+        "missionCategoryId": 6,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 227,
+        "requirement": 5,
+        "reward": [
+          {
+            "id": 95,
+            "countGroupId": 1201,
+            "count": 1,
+            "resourceBoxId": 12
+          }
+        ]
+      },
+      {
+        "id": 119,
+        "missionType": "guest",
+        "missionCategoryId": 6,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 227,
+        "requirement": 10,
+        "reward": [
+          {
+            "id": 96,
+            "countGroupId": 1202,
+            "count": 1,
+            "resourceBoxId": 25
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "missionType": "guest",
+        "missionCategoryId": 6,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 227,
+        "requirement": 15,
+        "reward": [
+          {
+            "id": 97,
+            "countGroupId": 1203,
+            "count": 1,
+            "resourceBoxId": 16
+          }
+        ]
+      },
+      {
+        "id": 121,
+        "missionType": "guest",
+        "missionCategoryId": 6,
+        "name": "特定イベントストーリーをスキップ・早送りせず読もう！",
+        "friendInvitationGuestMissionType": "read_no_skip_event_story_episode",
+        "friendInvitationGuestMissionTypeId": 227,
+        "requirement": 20,
+        "reward": [
+          {
+            "id": 98,
+            "countGroupId": 1204,
+            "count": 1,
+            "resourceBoxId": 26
+          }
+        ]
+      }
+    ]
+  }
+]
