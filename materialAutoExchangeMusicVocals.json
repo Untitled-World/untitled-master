@@ -1,0 +1,224 @@
+[
+  {
+    "id": 1,
+    "materialId": 88,
+    "musicVocalId": 1486,
+    "obtainAt": 1718449200000
+  },
+  {
+    "id": 2,
+    "materialId": 88,
+    "musicVocalId": 1488,
+    "obtainAt": 1718449200000
+  },
+  {
+    "id": 3,
+    "materialId": 169,
+    "musicVocalId": 1556,
+    "obtainAt": 1740317400000
+  },
+  {
+    "id": 4,
+    "materialId": 169,
+    "musicVocalId": 1557,
+    "obtainAt": 1740317400000
+  },
+  {
+    "id": 5,
+    "materialId": 169,
+    "musicVocalId": 1558,
+    "obtainAt": 1740317400000
+  },
+  {
+    "id": 6,
+    "materialId": 169,
+    "musicVocalId": 1559,
+    "obtainAt": 1740317400000
+  },
+  {
+    "id": 7,
+    "materialId": 172,
+    "musicVocalId": 1653,
+    "obtainAt": 1753619400000
+  },
+  {
+    "id": 8,
+    "materialId": 172,
+    "musicVocalId": 1654,
+    "obtainAt": 1753619400000
+  },
+  {
+    "id": 9,
+    "materialId": 213,
+    "musicVocalId": 1717,
+    "obtainAt": 1762087500000
+  },
+  {
+    "id": 10,
+    "materialId": 213,
+    "musicVocalId": 1718,
+    "obtainAt": 1762087500000
+  },
+  {
+    "id": 11,
+    "materialId": 280,
+    "musicVocalId": 1807,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 12,
+    "materialId": 280,
+    "musicVocalId": 1808,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 13,
+    "materialId": 280,
+    "musicVocalId": 1809,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 14,
+    "materialId": 280,
+    "musicVocalId": 1810,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 15,
+    "materialId": 280,
+    "musicVocalId": 1811,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 16,
+    "materialId": 280,
+    "musicVocalId": 1812,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 17,
+    "materialId": 280,
+    "musicVocalId": 1813,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 18,
+    "materialId": 280,
+    "musicVocalId": 1814,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 19,
+    "materialId": 280,
+    "musicVocalId": 1815,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 20,
+    "materialId": 280,
+    "musicVocalId": 1816,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 21,
+    "materialId": 280,
+    "musicVocalId": 1817,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 22,
+    "materialId": 280,
+    "musicVocalId": 1818,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 23,
+    "materialId": 280,
+    "musicVocalId": 1819,
+    "obtainAt": 1778418600000
+  },
+  {
+    "id": 24,
+    "materialId": 321,
+    "musicVocalId": 2103,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 25,
+    "materialId": 321,
+    "musicVocalId": 2104,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 26,
+    "materialId": 321,
+    "musicVocalId": 2105,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 27,
+    "materialId": 321,
+    "musicVocalId": 2106,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 28,
+    "materialId": 321,
+    "musicVocalId": 2107,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 29,
+    "materialId": 321,
+    "musicVocalId": 2108,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 30,
+    "materialId": 321,
+    "musicVocalId": 2109,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 31,
+    "materialId": 322,
+    "musicVocalId": 2110,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 32,
+    "materialId": 322,
+    "musicVocalId": 2111,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 33,
+    "materialId": 322,
+    "musicVocalId": 2112,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 34,
+    "materialId": 322,
+    "musicVocalId": 2113,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 35,
+    "materialId": 322,
+    "musicVocalId": 2114,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 36,
+    "materialId": 322,
+    "musicVocalId": 2115,
+    "obtainAt": 1792930500000
+  },
+  {
+    "id": 37,
+    "materialId": 322,
+    "musicVocalId": 2109,
+    "obtainAt": 1792930500000
+  }
+]

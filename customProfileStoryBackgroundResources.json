@@ -1,0 +1,462 @@
+[
+  {
+    "customProfileResourceType": "story_background",
+    "id": 1,
+    "seq": 1,
+    "name": "教室のセカイ",
+    "pronunciation": "きょうしつのせかい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0001"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 2,
+    "seq": 2,
+    "name": "ステージのセカイ",
+    "pronunciation": "すてーじのせかい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0002"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 3,
+    "seq": 3,
+    "name": "ストリートのセカイ",
+    "pronunciation": "すとりーとのせかい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0003"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 4,
+    "seq": 4,
+    "name": "ワンダーランドのセカイ",
+    "pronunciation": "わんだーらんどのせかい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0004"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 5,
+    "seq": 5,
+    "name": "誰もいないセカイ",
+    "pronunciation": "だれもいないせかい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0005"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 6,
+    "seq": 6,
+    "name": "宮益坂女子学園の中庭",
+    "pronunciation": "みやますざかじょしがくえんのなかにわ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0006"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 7,
+    "seq": 7,
+    "name": "宮益坂女子学園の教室",
+    "pronunciation": "みやますざかじょしがくえんのきょうしつ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0007"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 8,
+    "seq": 8,
+    "name": "宮益坂女子学園の屋上",
+    "pronunciation": "みやますざかじょしがくえんのおくじょう",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0008"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 9,
+    "seq": 9,
+    "name": "神山高校の校門",
+    "pronunciation": "かみやまこうこうのこうもん",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0009"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 10,
+    "seq": 10,
+    "name": "神山高校の教室",
+    "pronunciation": "かみやまこうこうのきょうしつ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0010"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 11,
+    "seq": 11,
+    "name": "神山高校の屋上",
+    "pronunciation": "かみやまこうこうのおくじょう",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0011"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 12,
+    "seq": 12,
+    "name": "スクランブル交差点",
+    "pronunciation": "すくらんぶるこうさてん",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0012"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 13,
+    "seq": 13,
+    "name": "音楽ショップ",
+    "pronunciation": "おんがくしょっぷ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0013"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 14,
+    "seq": 14,
+    "name": "WEEKEND GARAGE",
+    "pronunciation": "うぃーくえんど がれーじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0014"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 15,
+    "seq": 15,
+    "name": "フェニックスワンダーランド",
+    "pronunciation": "ふぇにっくすわんだーらんど",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0015"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 16,
+    "seq": 16,
+    "name": "ワンダーステージ",
+    "pronunciation": "わんだーすてーじ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0016"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 17,
+    "seq": 17,
+    "name": "ファミリーレストラン",
+    "pronunciation": "ふぁみりーれすとらん",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0017"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 18,
+    "seq": 18,
+    "name": "教室のセカイ(駅)",
+    "pronunciation": "きょうしつのせかいえき",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0018"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 19,
+    "seq": 19,
+    "name": "ステージのセカイ(花畑)",
+    "pronunciation": "すてーじのせかいはなばたけ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0019"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 20,
+    "seq": 20,
+    "name": "ストリートのセカイ(広場)",
+    "pronunciation": "すとりーとのせかいひろば",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0020"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 21,
+    "seq": 21,
+    "name": "ワンダーランドのセカイ(港)",
+    "pronunciation": "わんだーらんどのせかいみなと",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0021"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 22,
+    "seq": 22,
+    "name": "誰もいないセカイ(湖)",
+    "pronunciation": "だれもいないせかいみずうみ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0022"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 23,
+    "seq": 23,
+    "name": "神山高校校庭",
+    "pronunciation": "かみやまこうこうこうてい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0024"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 24,
+    "seq": 24,
+    "name": "神山高校廊下",
+    "pronunciation": "かみやまこうこうろうか",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0025"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 25,
+    "seq": 25,
+    "name": "宮益坂女子学園廊下",
+    "pronunciation": "みやますざかじょがくえんろうか",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0026"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 26,
+    "seq": 26,
+    "name": "宮益坂女子学園校庭",
+    "pronunciation": "みやますざかじょがくえんこうてい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0027"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 27,
+    "seq": 27,
+    "name": "宮益坂",
+    "pronunciation": "みやますざか",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0028"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 28,
+    "seq": 28,
+    "name": "住宅街",
+    "pronunciation": "じゅうたくがい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0029"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 29,
+    "seq": 29,
+    "name": "カフェ",
+    "pronunciation": "かふぇ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0030"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 30,
+    "seq": 30,
+    "name": "シブヤの公園",
+    "pronunciation": "しぶやのこうえん",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0031"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 31,
+    "seq": 31,
+    "name": "ショッピングモール",
+    "pronunciation": "しょっぴんぐもーる",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0032"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 32,
+    "seq": 32,
+    "name": "楽器店",
+    "pronunciation": "がっきてん",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0033"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 33,
+    "seq": 33,
+    "name": "レッスンスタジオ",
+    "pronunciation": "れっすんすたじお",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0034"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 34,
+    "seq": 34,
+    "name": "センター街",
+    "pronunciation": "せんたーがい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0035"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 35,
+    "seq": 35,
+    "name": "神社の拝殿",
+    "pronunciation": "じんじゃのはいでん",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0036"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 36,
+    "seq": 36,
+    "name": "神社の境内",
+    "pronunciation": "じんじゃのけいだい",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0037"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 37,
+    "seq": 37,
+    "name": "乃々木公園",
+    "pronunciation": "ののぎこうえん",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0038"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 38,
+    "seq": 38,
+    "name": "結婚式場",
+    "pronunciation": "けっこんしきじょう",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0039"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 39,
+    "seq": 39,
+    "name": "人気のない海辺",
+    "pronunciation": "ひとけのないうみべ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0040"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 40,
+    "seq": 40,
+    "name": "ゲームセンター",
+    "pronunciation": "げーむせんたー",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0041"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 41,
+    "seq": 41,
+    "name": "横浜の港町",
+    "pronunciation": "よこはまのみなとまち",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0042"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 42,
+    "seq": 42,
+    "name": "ライブ会場",
+    "pronunciation": "らいぶかいじょう",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0043"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 43,
+    "seq": 43,
+    "name": "神山通り",
+    "pronunciation": "かみやまどおり",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0044"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 44,
+    "seq": 44,
+    "name": "病院",
+    "pronunciation": "びょういん",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0045"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 45,
+    "seq": 45,
+    "name": "電車車内",
+    "pronunciation": "でんしゃしゃない",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0046"
+  },
+  {
+    "customProfileResourceType": "story_background",
+    "id": 46,
+    "seq": 46,
+    "name": "ホテルのカフェ",
+    "pronunciation": "ほてるのかふぇ",
+    "resourceLoadType": "assetbundle",
+    "resourceLoadVal": "custom_profile/bg",
+    "fileName": "profile_bg_story_0047"
+  }
+]
