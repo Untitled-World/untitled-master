@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1080,
+    "partyName": "誰もいないセカイチーム",
+    "gameCharacterUnitId1": 31,
+    "gameCharacterUnitId2": 36,
+    "gameCharacterUnitId3": 51,
+    "gameCharacterUnitId4": 46
+  },
+  {
+    "id": 1081,
+    "partyName": "もうひとりぼっちじゃないチーム",
+    "gameCharacterUnitId1": 31,
+    "gameCharacterUnitId2": 36,
+    "gameCharacterUnitId3": 51,
+    "gameCharacterUnitId4": 46
+  },
+  {
+    "id": 1089,
+    "partyName": "We are レン！チーム",
+    "gameCharacterUnitId1": 39,
+    "gameCharacterUnitId2": 40,
+    "gameCharacterUnitId3": 38,
+    "gameCharacterUnitId4": 37
+  },
+  {
+    "id": 1090,
+    "partyName": "セカイのレンチーム",
+    "gameCharacterUnitId1": 39,
+    "gameCharacterUnitId2": 40,
+    "gameCharacterUnitId3": 38,
+    "gameCharacterUnitId4": 37
+  }
+]
