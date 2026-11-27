@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "name": "untitled-master",
+  "kind": "master",
+  "mode": "parent-only",
+  "childManaged": false,
+  "keyType": "file-name",
+  "urlTemplate": "https://untitled-world.github.io/untitled-master/{file}",
+  "deliveryBaseUrl": "https://untitled-world.github.io/untitled-master/",
+  "status": "ready"
+}
