@@ -1,6 +1,6 @@
 {
- "dataVersion": "7.1.0.92",
- "assetVersion": "7.1.0.90",
+ "dataVersion": "7.1.0.95",
+ "assetVersion": "7.1.0.95",
  "publishedTables": [
   "actionSetLotteryConditions",
   "actionSets",
